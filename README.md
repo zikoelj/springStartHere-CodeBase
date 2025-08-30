@@ -1,1 +1,1 @@
-# CodeBase with examples of tackling basics in spring
+# CodeBase with examples of getting basics in spring
